@@ -1,4 +1,4 @@
-package segundoParcial;
+package parcial;
 
 public class CreateUser {
 }
